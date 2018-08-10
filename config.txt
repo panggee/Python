@@ -1,0 +1,17 @@
+# 设备号
+device:8SUXYJZY5N
+
+# app 安装包名称
+app_name:keda.apk
+
+# app packagename
+package_name:com.signway.cooker
+
+# app MainActivity类名，用于启动app
+main_activity:com.com.signway.cooker.activity.MainActivity
+
+# 执行monkey自动化的轮数
+execute_count:5
+
+# 每轮执行的点击数
+monkey_click_count:10000
